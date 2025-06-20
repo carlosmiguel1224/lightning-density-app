@@ -1,0 +1,8 @@
+flask
+gunicorn
+pillow
+scipy
+pandas
+numpy
+opencage
+python-dotenv
